@@ -1,0 +1,11 @@
+{
+	"appid": "1538750",
+	"itemdefid": "2",
+	"name": "Test Item 2",
+	"description": "Don't buy it!!!",
+	"display_type": "Test2",
+	"type": "item",
+	"icon": "https://raw.githubusercontent.com/develax/masterofpiecesinventory/main/items/test/200-2.png",
+	"icon_url_large": "https://raw.githubusercontent.com/develax/masterofpiecesinventory/main/items/test/2048-2.png",
+	"price": "1;USD1"
+}
