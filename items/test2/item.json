@@ -6,6 +6,5 @@
 	"display_type": "Test2",
 	"type": "item",
 	"icon": "https://raw.githubusercontent.com/develax/masterofpiecesinventory/main/items/test2/colour200.png",
-	"icon_url_large": "https://raw.githubusercontent.com/develax/masterofpiecesinventory/main/items/test2/colour2048.png",
-	"price": "1;USD1"
+	"icon_url_large": "https://raw.githubusercontent.com/develax/masterofpiecesinventory/main/items/test2/colour2048.png"
 }
